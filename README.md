@@ -12,4 +12,4 @@ Como estou me preparando para ser pai, pela primeira vez, decidi criar com a Gam
 ## 🚀 Resultados
 Este e-book oferece informações de suma importância, abrangendo não apenas os cuidados com o bebê, mas também orientações preciosas para os pais e para a preparação do ambiente que os envolve para a chegada do novo membro da família.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](Guia-Essencial-para-Pais-de-Primeira-Viagem.pdf)
